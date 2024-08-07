@@ -1,0 +1,25 @@
+---
+title: "eds212-day3-tasks"
+author: "Matteo Torres"
+format: html
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+# create vectors ----
+vec_a<- c(1, 6)
+vec_b<- c(2, 4)
+```
+
+```{r}
+# vector math ----
+vec_a + vec_b
+
+vec_b - vec_a
+
+2 * vec_a
+
+vec_a * vec_b
+```
+
